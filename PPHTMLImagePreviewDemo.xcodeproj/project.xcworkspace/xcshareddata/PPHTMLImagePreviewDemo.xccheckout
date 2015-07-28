@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>29B7D4D2-A63D-4854-92FC-7414236A5B39</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PPHTMLImagePreviewDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0D4B3EED90FC3E3CDCAC1C0F8FBC653497BB3FC5</key>
+		<string>github.com:smallmuou/PPHTMLImagePreviewDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PPHTMLImagePreviewDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0D4B3EED90FC3E3CDCAC1C0F8FBC653497BB3FC5</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:smallmuou/PPHTMLImagePreviewDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0D4B3EED90FC3E3CDCAC1C0F8FBC653497BB3FC5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0D4B3EED90FC3E3CDCAC1C0F8FBC653497BB3FC5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PPHTMLImagePreviewDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
